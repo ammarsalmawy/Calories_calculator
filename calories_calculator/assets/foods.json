@@ -1,0 +1,22 @@
+[  {"name": "Apple", "calories": "100"},
+  {"name": "Strawberries", "calories": "45"},
+  {"name": "Grapes", "calories": "114"},
+  {"name": "Chicken", "calories": "150"},
+  {"name": "Meat", "calories": "200"},
+  {"name": "milk", "calories": "120"},
+  {"name": "Yogurt", "calories": "225"},
+  {"name": "Beans", "calories": "142"},
+  {"name": "Banana", "calories": "105"},
+  {"name": "Dates", "calories": "228"},
+  {"name": "Biscuit", "calories": "103"},
+  {"name": "Cookie", "calories": "65"},
+  {"name": "Pizza", "calories": "290"},
+  {"name": "Rice", "calories": "223"},
+  {"name": "Waffles", "calories": "130"},
+  {"name": "Noodles", "calories": "159"},
+  {"name": "Hamburger", "calories": "119"},
+  {"name": "Bread", "calories": "61"},
+  {"name": "Potato", "calories": "220"},
+  {"name": "Raisins", "calories": "300"}
+
+]
